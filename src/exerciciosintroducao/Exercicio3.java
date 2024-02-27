@@ -27,6 +27,7 @@ public class Exercicio3 {
 		
 		leia.close();
 		
+		
 		salarioLiquido = salarioBruto + adicionalNoturno + (horasExtras*5) - descontos;
 		
 		System.out.println("O salário liquido do colaborador " +colaborador+" é "+salarioLiquido);
