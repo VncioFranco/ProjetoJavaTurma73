@@ -15,7 +15,7 @@ public class Exercicio_switch_calculadora {
 		numero2 = read.nextFloat();
 		
 		System.out.println("Escolha uma das opções: ");
-		System.out.println("1 - Soma \n" + "2 -Subtração \n" + "3 - Multiplicação \n" + "4 - Divisão");
+		System.out.println("1 - Soma \n" + "2 - Subtração \n" + "3 - Multiplicação \n" + "4 - Divisão");
 		menu = read.nextInt();
 		switch(menu) {
 		case 1:

@@ -38,7 +38,7 @@ public class ExercicioSwitch_2 {
 	    	break;
 	    	
 	    case 3:
-	    	System.out.println("Produto: X-Bacom \n"+"Valor total: R$"+(quantidade* 18.00));
+	    	System.out.println("Produto: X-Bacon \n"+"Valor total: R$"+(quantidade* 18.00));
 	    	break;	
 	    	
 	    case 4:
