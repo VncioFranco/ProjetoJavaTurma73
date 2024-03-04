@@ -42,7 +42,6 @@ public class ExercicioQueue {
 
 			if (fila.isEmpty()== true) {
 				System.out.println("Fila vazia!");
-				break;
 			}
 			fila.poll();
 			System.out.println("Fila: " + fila);
